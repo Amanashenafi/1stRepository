@@ -6,3 +6,5 @@ Created on Fri Mar 24 23:20:54 2023
 """
 x = 13
 print("how do u think I found ", x)
+y = 14
+print("now I found ",14)
