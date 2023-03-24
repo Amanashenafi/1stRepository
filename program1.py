@@ -5,4 +5,4 @@ Created on Fri Mar 24 23:20:54 2023
 @author: user
 """
 x = 13
-print("how do u thing I found ", x)
+print("how do u think I found ", x)
